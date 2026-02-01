@@ -3,7 +3,9 @@
 A production-ready Svelte MCP (Model Context Protocol) client library with SSE transport, reactive stores, context providers, and minimal UI components.
 
 [![npm version](https://img.shields.io/npm/v/svelte-mcp-client.svg)](https://www.npmjs.com/package/svelte-mcp-client)
+[![npm downloads](https://img.shields.io/npm/dm/svelte-mcp-client.svg)](https://www.npmjs.com/package/svelte-mcp-client)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+[![GitHub](https://img.shields.io/github/stars/rakinzisilver/svelte-mcp-client?style=social)](https://github.com/rakinzisilver/svelte-mcp-client)
 
 ## Features
 
@@ -304,9 +306,13 @@ bun run test
 bun run build
 ```
 
+## What is MCP?
+
+The [Model Context Protocol](https://modelcontextprotocol.io/) is an open protocol that enables seamless integration between LLM applications and external data sources and tools. This library provides a Svelte-native implementation of the MCP client specification.
+
 ## Examples
 
-See `examples/svelte-basic` for a complete working example demonstrating:
+Check out the [examples directory](https://github.com/rakinzisilver/svelte-mcp-client/tree/main/examples) for complete working examples demonstrating:
 
 - Client setup and connection
 - Listing and calling tools
@@ -323,15 +329,16 @@ See `examples/svelte-basic` for a complete working example demonstrating:
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for development guidelines.
 
-## Repository
+## Links
 
-- GitHub: [rakinzisilver/svelte-mcp-client](https://github.com/rakinzisilver/svelte-mcp-client)
-- Issues: [Report a bug or request a feature](https://github.com/rakinzisilver/svelte-mcp-client/issues)
-- npm: [svelte-mcp-client](https://www.npmjs.com/package/svelte-mcp-client)
+- **GitHub**: [rakinzisilver/svelte-mcp-client](https://github.com/rakinzisilver/svelte-mcp-client)
+- **npm**: [svelte-mcp-client](https://www.npmjs.com/package/svelte-mcp-client)
+- **Issues**: [Report bugs or request features](https://github.com/rakinzisilver/svelte-mcp-client/issues)
+- **MCP Spec**: [Model Context Protocol](https://modelcontextprotocol.io/)
 
 ## Author
 
-Created by [rakinzisilver](https://github.com/rakinzisilver)
+Created and maintained by [rakinzisilver](https://github.com/rakinzisilver)
 
 ## License
 
