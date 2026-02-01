@@ -323,6 +323,16 @@ See `examples/svelte-basic` for a complete working example demonstrating:
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for development guidelines.
 
+## Repository
+
+- GitHub: [rakinzisilver/svelte-mcp-client](https://github.com/rakinzisilver/svelte-mcp-client)
+- Issues: [Report a bug or request a feature](https://github.com/rakinzisilver/svelte-mcp-client/issues)
+- npm: [svelte-mcp-client](https://www.npmjs.com/package/svelte-mcp-client)
+
+## Author
+
+Created by [rakinzisilver](https://github.com/rakinzisilver)
+
 ## License
 
 MIT - see [LICENSE](./LICENSE) for details.
